@@ -16,3 +16,5 @@ The code will be made public upon acceptance of the paper.
 
 **RELATED PAPERS:**
 - [Performance Evaluation of Selective Fixed-filter Active Noise Control based on Different Convolutional Neural Networks](https://arxiv.org/pdf/2208.08440)
+- [A hybrid sfanc-fxnlms algorithm for active noise control based on deep learning](https://arxiv.org/pdf/2208.08082)
+- [Deep Generative Fixed-Filter Active Noise Control](https://arxiv.org/pdf/2303.05788)
