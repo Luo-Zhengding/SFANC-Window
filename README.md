@@ -4,15 +4,15 @@ Real-time Implementation of CNN-based selective fixed-filter active noise contro
 
 The code will be made public upon acceptance of the paper.
 
-<img src="https://github.com/Luo-Zhengding/SFANC-ANC-Window/assets/95018034/9889b346-9713-47b7-81d4-6b3f8bfca22d" width="400" />
-<img src="https://github.com/Luo-Zhengding/SFANC-ANC-Window/assets/95018034/7b645d39-7b9f-444f-91d2-54f12ef17e55" width="400" />
-<img src="https://github.com/Luo-Zhengding/SFANC-ANC-Window/assets/95018034/fec13ec1-9199-42c2-bee2-c61d43237d82" width="400" />
+<img src="https://github.com/Luo-Zhengding/SFANC-ANC-Window/assets/95018034/9889b346-9713-47b7-81d4-6b3f8bfca22d" width="300" />
+<img src="https://github.com/Luo-Zhengding/SFANC-ANC-Window/assets/95018034/7b645d39-7b9f-444f-91d2-54f12ef17e55" width="300" />
+<img src="https://github.com/Luo-Zhengding/SFANC-ANC-Window/assets/95018034/fec13ec1-9199-42c2-bee2-c61d43237d82" width="300" />
 
-Highlights:
+**HIGHLIGHTS:**
 1. CNN-based selective fixed-filter active noise control (SFANC) algorithm is implemented in a window for real-time noise control, marking the first practical implementation of this technique.
 2. The real SFANC system can achieve delayless noise reduction through the efficient coordination between the co-processor and real-time controller.
 3. The explainable AI technique via class activation map (CAM) is used to visually analyze the effectiveness of the CNN model in SFANC.
 4. Real-time experiments show that the CNN-based SFANC not only effectively reduces different types of noise but also exhibits good transferability.
 
-Related papers:
+**RELATED PAPERS:**
 - [Performance Evaluation of Selective Fixed-filter Active Noise Control based on Different Convolutional Neural Networks](https://arxiv.org/pdf/2208.08440)
