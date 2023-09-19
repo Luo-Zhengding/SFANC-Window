@@ -3,8 +3,8 @@ Real-time Implementation of CNN-based selective fixed-filter active noise contro
 
 The code will be made public upon acceptance of the paper.
 
-[WindowInner.pdf](https://github.com/Luo-Zhengding/SFANC-ANC-Window/files/12656011/WindowInner.pdf)
-[WindowOut.pdf](https://github.com/Luo-Zhengding/SFANC-ANC-Window/files/12656012/WindowOut.pdf)
+![WindowInner_00](https://github.com/Luo-Zhengding/SFANC-ANC-Window/assets/95018034/9889b346-9713-47b7-81d4-6b3f8bfca22d)
+![WindowOut_00](https://github.com/Luo-Zhengding/SFANC-ANC-Window/assets/95018034/7b645d39-7b9f-444f-91d2-54f12ef17e55)
 ![5](https://github.com/Luo-Zhengding/SFANC-ANC-Window/assets/95018034/fec13ec1-9199-42c2-bee2-c61d43237d82)
 
 Highlights:
