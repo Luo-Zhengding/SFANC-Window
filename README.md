@@ -14,9 +14,8 @@ The code will be made public upon acceptance of the paper.
 3. The explainable AI technique via class activation map (CAM) is used to visually analyze the effectiveness of the CNN model in SFANC.
 4. Real-time experiments show that the CNN-based SFANC not only effectively reduces different types of noise but also exhibits good transferability.
 
-**Video:**
-https://youtu.be/K1pWeNLMoDM
-- [[https://youtu.be/K1pWeNLMoDM](https://youtu.be/K1pWeNLMoDM)
+**Video of Experiment Results:**
+- [Active Noise Control Window based on SFANC](https://youtu.be/K1pWeNLMoDM)
 
 **RELATED PAPERS:**
 - [Performance Evaluation of Selective Fixed-filter Active Noise Control based on Different Convolutional Neural Networks](https://arxiv.org/pdf/2208.08440)
