@@ -23,13 +23,11 @@ This repository contains the code for the paper "**Real-time Implementation and 
 - The code and pre-trained model of the CNN are provided in `Modified_ShufflenetV2.py` and `ShuffleNetV2_Synthetic.pth`, respectively.
 
 ### Real-time Implementation
-- 7 pre-trained control filters are obtained in the 4-channel ANC window with 1 reference microphone, 4 secondary sources, and 4 error sensors.
-- 7 broadband noises with different frequency ranges (as shown in the figure below) are used as primary noises to obtain the corresponding pre-trained control filters.
-- During real-time noise control, the laptop runs the code `Main_SFANC_Window.ipynb` to transmit the index of the selected control filter to the PXI processing unit.
-
+- 7 pre-trained control filters are obtained in the 4-channel ANC window with 1 reference microphone, 4 secondary sources, and 4 error sensors. 7 broadband noises with different frequency ranges (as shown in the figure below) are used as primary noises to obtain the corresponding pre-trained control filters.
 <p align="center">
   <img src="https://github.com/Luo-Zhengding/SFANC-Window/assets/95018034/82d0625b-3335-408e-abd1-492fcf88583e" height="100">
 </p>
+- During real-time noise control, the laptop runs the code `Main_SFANC_Window.ipynb` to transmit the index of the selected control filter to the PXI processing unit.
 
 ### Applying to New Environments
 - To use the CNN-based SFANC method in new acoustic environments, obtain the corresponding pre-trained control filters in the new acoustic paths. The trained CNN in the CNN-based SFANC method can remain unchanged. For more details, please refer to the paper.
