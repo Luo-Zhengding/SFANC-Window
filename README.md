@@ -2,9 +2,12 @@
 
 This repository contains the code for the paper "**Real-time Implementation and Explainable AI Analysis of Delayless CNN-based Selective Fixed-filter Active Noise Control**," accepted by the 'Mechanical Systems and Signal Processing' journal. The paper is available on [ResearchGate](https://www.researchgate.net/publication/379371184_Real-time_implementation_and_explainable_AI_analysis_of_delayless_CNN-based_selective_fixed-filter_active_noise_control) and [Elsevier](https://www.sciencedirect.com/science/article/pii/S0888327024002620).
 
-<img src="https://github.com/Luo-Zhengding/SFANC-ANC-Window/assets/95018034/9889b346-9713-47b7-81d4-6b3f8bfca22d" width="300" />
-<img src="https://github.com/Luo-Zhengding/SFANC-ANC-Window/assets/95018034/7b645d39-7b9f-444f-91d2-54f12ef17e55" width="300" />
-<img src="https://github.com/Luo-Zhengding/SFANC-ANC-Window/assets/95018034/fec13ec1-9199-42c2-bee2-c61d43237d82" width="200" />
+<p align="center">
+  <img src="https://github.com/Luo-Zhengding/SFANC-Window/assets/95018034/de1f3812-74ac-4461-85b2-707b56064f07" width="500" height="400">
+  <img src="https://github.com/Luo-Zhengding/SFANC-Window/assets/95018034/81b6b1db-a9e4-4e2d-afe0-6ed24d708182" width="500" height="400">
+  <img src="https://github.com/Luo-Zhengding/SFANC-Window/assets/95018034/b2973645-06ec-405f-835b-ac17268f3873" width="500" height="400">
+</p>
+
 
 **Video of Experiment Results:**
 - [Active Noise Control Window based on SFANC](https://youtu.be/K1pWeNLMoDM)
