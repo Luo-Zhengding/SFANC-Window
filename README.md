@@ -1,8 +1,6 @@
-# SFANC-ANC-Window
+# CNN-based SFANC implemented in ANC Window
 
-Real-time Implementation of CNN-based selective fixed-filter active noise control and effectiveness analysis using explainable AI
-
-The code will be made public upon acceptance of the paper.
+This repository contains the code for the paper "**Real-time Implementation and Explainable AI Analysis of Delayless CNN-based Selective Fixed-filter Active Noise Control**," accepted by the 'Mechanical Systems and Signal Processing' journal. The paper is available on [ResearchGate](https://www.researchgate.net/publication/379371184_Real-time_implementation_and_explainable_AI_analysis_of_delayless_CNN-based_selective_fixed-filter_active_noise_control) and [Elsevier](https://www.sciencedirect.com/science/article/pii/S0888327024002620).
 
 <img src="https://github.com/Luo-Zhengding/SFANC-ANC-Window/assets/95018034/9889b346-9713-47b7-81d4-6b3f8bfca22d" width="300" />
 <img src="https://github.com/Luo-Zhengding/SFANC-ANC-Window/assets/95018034/7b645d39-7b9f-444f-91d2-54f12ef17e55" width="300" />
